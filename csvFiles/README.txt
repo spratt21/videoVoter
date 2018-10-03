@@ -1,0 +1,1 @@
+This is the location for the annoations of each video. The format is a csv where each row is the name of the clip followed by the tags for that clip. 
